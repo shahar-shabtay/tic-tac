@@ -47,8 +47,6 @@
             <Button
                 android:id="@+id/a3"
                 style="@style/column" />
-            <View
-                style="@style/verticalLine"/>
 
         </LinearLayout>
         <View
@@ -69,8 +67,6 @@
             <Button
                 android:id="@+id/b3"
                 style="@style/column" />
-            <View
-                style="@style/verticalLine"/>
         </LinearLayout>
         <View
             style="@style/horizontalLine"/>
@@ -90,9 +86,6 @@
             <Button
                 android:id="@+id/c3"
                 style="@style/column" />
-            <View
-                style="@style/verticalLine"/>
-
 
         </LinearLayout>
 
